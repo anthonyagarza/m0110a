@@ -2992,4 +2992,155 @@ Wire Wire Line
 	12570 4230 12570 4180
 Connection ~ 11350 4230
 Connection ~ 12570 4180
+Wire Wire Line
+	4030 1310 3760 1310
+Connection ~ 4030 1310
+Wire Wire Line
+	4030 2010 3780 2010
+Connection ~ 4030 2010
+Wire Wire Line
+	4030 2740 3780 2740
+Connection ~ 4030 2740
+Wire Wire Line
+	4030 3450 3820 3450
+Connection ~ 4030 3450
+Wire Wire Line
+	4150 4230 3890 4230
+Connection ~ 4150 4230
+Text GLabel 3760 1310 0    50   Input ~ 0
+ROW0
+Text GLabel 3780 2010 0    50   Input ~ 0
+ROW1
+Text GLabel 3780 2740 0    50   Input ~ 0
+ROW2
+Text GLabel 3820 3450 3    50   Input ~ 0
+ROW3
+Text GLabel 3890 4230 0    50   Input ~ 0
+ROW4
+Connection ~ 4330 900 
+Wire Wire Line
+	4910 900  4910 830 
+Wire Wire Line
+	4910 830  4950 830 
+Connection ~ 4910 900 
+Wire Wire Line
+	4330 830  4390 830 
+Wire Wire Line
+	4330 830  4330 900 
+Wire Wire Line
+	5520 900  5520 830 
+Wire Wire Line
+	5520 830  5580 830 
+Connection ~ 5520 900 
+Wire Wire Line
+	6100 900  6100 840 
+Wire Wire Line
+	6100 840  6160 840 
+Connection ~ 6100 900 
+Wire Wire Line
+	6620 900  6620 840 
+Wire Wire Line
+	6620 840  6690 840 
+Connection ~ 6620 900 
+Wire Wire Line
+	7200 900  7200 830 
+Wire Wire Line
+	7200 830  7260 830 
+Connection ~ 7200 900 
+Wire Wire Line
+	7790 900  7790 840 
+Wire Wire Line
+	7790 840  7850 840 
+Connection ~ 7790 900 
+Wire Wire Line
+	8370 900  8370 840 
+Wire Wire Line
+	8370 840  8440 840 
+Connection ~ 8370 900 
+Wire Wire Line
+	8920 900  8920 840 
+Wire Wire Line
+	8920 840  8990 840 
+Connection ~ 8920 900 
+Wire Wire Line
+	9500 900  9500 840 
+Wire Wire Line
+	9500 840  9570 840 
+Connection ~ 9500 900 
+Wire Wire Line
+	10000 900  10000 840 
+Wire Wire Line
+	10000 840  10090 840 
+Connection ~ 10000 900 
+Wire Wire Line
+	10580 900  10580 840 
+Wire Wire Line
+	10580 840  10660 840 
+Connection ~ 10580 900 
+Wire Wire Line
+	11070 900  11070 840 
+Wire Wire Line
+	11070 840  11140 840 
+Connection ~ 11070 900 
+Wire Wire Line
+	11650 900  11650 840 
+Wire Wire Line
+	11650 840  11730 840 
+Connection ~ 11650 900 
+Wire Wire Line
+	12870 900  12870 830 
+Wire Wire Line
+	12870 830  12960 830 
+Connection ~ 12870 900 
+Wire Wire Line
+	13450 900  13450 840 
+Wire Wire Line
+	13450 840  13530 840 
+Connection ~ 13450 900 
+Wire Wire Line
+	13940 900  13940 850 
+Wire Wire Line
+	13940 850  14010 850 
+Connection ~ 13940 900 
+Wire Wire Line
+	14520 900  14520 840 
+Wire Wire Line
+	14520 840  14600 840 
+Connection ~ 14520 900 
+Text GLabel 4390 830  2    50   Input ~ 0
+COL0
+Text GLabel 4950 830  2    50   Input ~ 0
+COL1
+Text GLabel 5580 830  2    50   Input ~ 0
+COL2
+Text GLabel 6160 840  2    50   Input ~ 0
+COL3
+Text GLabel 6690 840  2    50   Input ~ 0
+COL4
+Text GLabel 7260 830  2    50   Input ~ 0
+COL5
+Text GLabel 7850 840  2    50   Input ~ 0
+COL6
+Text GLabel 8440 840  1    50   Input ~ 0
+COL7
+Text GLabel 8990 840  2    50   Input ~ 0
+COL8
+Text GLabel 9570 840  1    50   Input ~ 0
+COL9
+Text GLabel 10090 840  1    50   Input ~ 0
+COL10
+Text GLabel 10660 840  1    50   Input ~ 0
+COL11
+Text GLabel 11140 840  1    50   Input ~ 0
+COL12
+Text GLabel 11730 840  2    50   Input ~ 0
+COL13
+Text GLabel 12960 830  1    50   Input ~ 0
+COL14
+Text GLabel 13530 840  1    50   Input ~ 0
+COL15
+Text GLabel 14010 850  1    50   Input ~ 0
+COL16
+Text GLabel 14600 840  2    50   Input ~ 0
+COL17
 $EndSCHEMATC
