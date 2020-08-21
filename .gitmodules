@@ -4,3 +4,12 @@
 [submodule "random-keyboard-parts.pretty"]
 	path = random-keyboard-parts.pretty
 	url = git@github.com:ai03-2725/random-keyboard-parts.pretty.git
+[submodule "kicad-libraries"]
+	path = kicad-libraries
+	url = git@github.com:sszczep/kicad-libraries.git
+[submodule "teensy_library"]
+	path = teensy_library
+	url = git@github.com:XenGi/teensy_library.git
+[submodule "teensy.pretty"]
+	path = teensy.pretty
+	url = git@github.com:XenGi/teensy.pretty.git
