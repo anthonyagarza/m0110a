@@ -60,7 +60,7 @@
     (pad_to_mask_clearance 0.051)
     (solder_mask_min_width 0.25)
     (aux_axis_origin 0 0)
-    (visible_elements FFFFFF7F)
+    (visible_elements FFFFF77F)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
@@ -944,7 +944,7 @@
   )
 
   (module CherryMX_PCB_KailhSocket_StabWireBottom_LTST-A683CEGBW:CherryMX_2.00u_PCB_KailhSocket_StabWireBottom_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F40F370)
-    (at 292.1 76.2)
+    (at 296.4375 76.2)
     (descr "Cherry MX switch footprint. Size: 2.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: PCB mounted (Wire Bottom), Lighting: LTST-A683CEGBW")
     (tags "CherryMX 2.00u PCB KailhSocket StabWireBottom LTST-A683CEGBW")
     (path /5F4A8CE3)
@@ -1068,7 +1068,7 @@
   )
 
   (module CherryMX_PCB_KailhSocket_StabWireBottom_LTST-A683CEGBW:CherryMX_2.00u_PCB_KailhSocket_StabWireBottom_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F40F2AA)
-    (at 339.725 66.675 90)
+    (at 344.0625 66.675 90)
     (descr "Cherry MX switch footprint. Size: 2.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: PCB mounted (Wire Bottom), Lighting: LTST-A683CEGBW")
     (tags "CherryMX 2.00u PCB KailhSocket StabWireBottom LTST-A683CEGBW")
     (path /5F470B9F)
@@ -1635,7 +1635,7 @@
   )
 
   (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F40F30D)
-    (at 320.675 76.2)
+    (at 325.0125 76.2)
     (descr "Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW")
     (tags "CherryMX 1.00u PCB KailhSocket LTST-A683CEGBW")
     (path /5F4A8CF7)
@@ -1925,7 +1925,7 @@
   )
 
   (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F40F205)
-    (at 301.625 57.15)
+    (at 305.9625 57.15)
     (descr "Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW")
     (tags "CherryMX 1.00u PCB KailhSocket LTST-A683CEGBW")
     (path /5F470B8B)
@@ -2041,7 +2041,7 @@
   )
 
   (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F40F1C3)
-    (at 320.675 57.15)
+    (at 325.0125 57.15)
     (descr "Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW")
     (tags "CherryMX 1.00u PCB KailhSocket LTST-A683CEGBW")
     (path /5F470B95)
@@ -2098,8 +2098,8 @@
     )
   )
 
-  (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F40F1A2)
-    (at 282.575 57.15)
+  (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F421C3A)
+    (at 286.9125 57.15)
     (descr "Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW")
     (tags "CherryMX 1.00u PCB KailhSocket LTST-A683CEGBW")
     (path /5F470B81)
@@ -2795,7 +2795,7 @@
   )
 
   (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F40F016)
-    (at 339.725 38.1)
+    (at 344.0625 38.1)
     (descr "Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW")
     (tags "CherryMX 1.00u PCB KailhSocket LTST-A683CEGBW")
     (path /5F470AEB)
@@ -2853,7 +2853,7 @@
   )
 
   (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F40EFF5)
-    (at 301.625 38.1)
+    (at 305.9625 38.1)
     (descr "Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW")
     (tags "CherryMX 1.00u PCB KailhSocket LTST-A683CEGBW")
     (path /5F470AD7)
@@ -3027,7 +3027,7 @@
   )
 
   (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F40EF71)
-    (at 320.675 38.1)
+    (at 325.0125 38.1)
     (descr "Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW")
     (tags "CherryMX 1.00u PCB KailhSocket LTST-A683CEGBW")
     (path /5F470AE1)
@@ -3085,7 +3085,7 @@
   )
 
   (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F40EF50)
-    (at 282.575 38.1)
+    (at 286.9125 38.1)
     (descr "Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW")
     (tags "CherryMX 1.00u PCB KailhSocket LTST-A683CEGBW")
     (path /5F470ACD)
@@ -3781,7 +3781,7 @@
   )
 
   (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F40EDC4)
-    (at 339.725 19.05)
+    (at 344.0625 19.05)
     (descr "Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW")
     (tags "CherryMX 1.00u PCB KailhSocket LTST-A683CEGBW")
     (path /5F44E95E)
@@ -3839,7 +3839,7 @@
   )
 
   (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F40EDA3)
-    (at 301.625 19.05)
+    (at 305.9625 19.05)
     (descr "Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW")
     (tags "CherryMX 1.00u PCB KailhSocket LTST-A683CEGBW")
     (path /5F44E94A)
@@ -4071,7 +4071,7 @@
   )
 
   (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F40ED1F)
-    (at 320.675 19.05)
+    (at 325.0125 19.05)
     (descr "Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW")
     (tags "CherryMX 1.00u PCB KailhSocket LTST-A683CEGBW")
     (path /5F44E954)
@@ -4129,7 +4129,7 @@
   )
 
   (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F40ECFE)
-    (at 282.575 19.05)
+    (at 286.9125 19.05)
     (descr "Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW")
     (tags "CherryMX 1.00u PCB KailhSocket LTST-A683CEGBW")
     (path /5F44E940)
@@ -4825,7 +4825,7 @@
   )
 
   (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F40EB72)
-    (at 339.725 0)
+    (at 344.0625 0)
     (descr "Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW")
     (tags "CherryMX 1.00u PCB KailhSocket LTST-A683CEGBW")
     (path /5F44816D)
@@ -4882,8 +4882,8 @@
     )
   )
 
-  (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F40EB51)
-    (at 301.625 0)
+  (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F421EDE)
+    (at 305.9625 0)
     (descr "Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW")
     (tags "CherryMX 1.00u PCB KailhSocket LTST-A683CEGBW")
     (path /5F430FB1)
@@ -5114,8 +5114,8 @@
     )
   )
 
-  (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F40EACD)
-    (at 320.675 0)
+  (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F422057)
+    (at 325.0125 0)
     (descr "Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW")
     (tags "CherryMX 1.00u PCB KailhSocket LTST-A683CEGBW")
     (path /5F448163)
@@ -5172,8 +5172,8 @@
     )
   )
 
-  (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW (layer F.Cu) (tedit 5E866FEB) (tstamp 5F412D7F)
-    (at 282.575 0)
+  (module CherryMX_PCB_KailhSocket_LTST-A683CEGBW:CherryMX_1.00u_PCB_KailhSocket_LTST-A683CEGBW locked (layer F.Cu) (tedit 5E866FEB) (tstamp 5F412D7F)
+    (at 286.9125 0)
     (descr "Cherry MX switch footprint. Size: 1.00u, Mount type: PCB, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: LTST-A683CEGBW")
     (tags "CherryMX 1.00u PCB KailhSocket LTST-A683CEGBW")
     (path /5F430FA7)
@@ -7661,7 +7661,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 5F40E51E)
-    (at 348.45625 19.05 90)
+    (at 352.425 19.84375 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F540CF3)
@@ -8585,7 +8585,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 5F40E311)
-    (at 347.6625 0.79375 90)
+    (at 352.425 0.79375 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F540329)
@@ -8628,8 +8628,8 @@
     )
   )
 
-  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 5F40E2F8)
-    (at 309.5625 0.79375 90)
+  (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 5F421F7F)
+    (at 313.53125 0.79375 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F53F607)
@@ -8673,7 +8673,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 5F40E2DF)
-    (at 290.5125 0.79375 90)
+    (at 294.48125 0.79375 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F53EDE6)
@@ -8761,7 +8761,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 5F40E2AD)
-    (at 328.6125 0.79375 90)
+    (at 333.375 0.79375 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F53FC66)
