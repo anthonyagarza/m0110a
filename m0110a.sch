@@ -3360,23 +3360,6 @@ Wire Wire Line
 Wire Wire Line
 	22580 4300 22820 4300
 $Comp
-L Mechanical:MountingHole_Pad H1
-U 1 1 627BD20C
-P 24270 4240
-F 0 "H1" V 24224 4390 50  0000 L CNN
-F 1 "MountingHole_Pad" V 24315 4390 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.5mm_Pad" H 24270 4240 50  0001 C CNN
-F 3 "~" H 24270 4240 50  0001 C CNN
-	1    24270 4240
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	23420 4200 24050 4200
-Wire Wire Line
-	24050 4200 24050 4240
-Wire Wire Line
-	24050 4240 24170 4240
-$Comp
 L teensy:Teensy2.0_(C) U1
 U 1 1 62D42544
 P 2440 2490
