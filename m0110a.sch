@@ -3258,19 +3258,7 @@ Wire Wire Line
 	22690 3530 22690 3620
 Wire Wire Line
 	22690 3620 22830 3620
-Wire Wire Line
-	23430 3520 23830 3520
-Wire Wire Line
-	23830 3520 23830 3880
-Wire Wire Line
-	23830 3880 23960 3880
-Wire Wire Line
-	24560 3780 24650 3780
-Wire Wire Line
-	24650 3780 24650 3620
-Wire Wire Line
-	24650 3620 24740 3620
-Text GLabel 24740 3620 2    50   Input ~ 0
+Text GLabel 23600 3420 2    50   Input ~ 0
 RGB3
 Text GLabel 4970 4320 0    50   Input ~ 0
 RGB3
@@ -3428,4 +3416,16 @@ Wire Wire Line
 Wire Wire Line
 	16600 3090 16600 2620
 Connection ~ 16600 2620
+Wire Wire Line
+	23600 3420 23600 3450
+Wire Wire Line
+	23600 3450 23430 3450
+Wire Wire Line
+	23430 3450 23430 3520
+Wire Wire Line
+	23420 4200 23880 4200
+Wire Wire Line
+	23880 4200 23880 3880
+Wire Wire Line
+	23880 3880 23960 3880
 $EndSCHEMATC
