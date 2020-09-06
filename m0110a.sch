@@ -3874,6 +3874,6 @@ Wire Wire Line
 Wire Wire Line
 	21570 5460 21570 5230
 Connection ~ 20590 5460
-Text GLabel 2570 3280 3    50   Input ~ 0
+Text GLabel 2770 3280 3    50   Input ~ 0
 ROW4
 $EndSCHEMATC
