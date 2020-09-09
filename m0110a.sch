@@ -15,17 +15,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L keebio:Elite-C U1
-U 1 1 5F5257EF
-P 2670 2330
-F 0 "U1" H 2670 3167 60  0000 C CNN
-F 1 "Elite-C" H 2670 3061 60  0000 C CNN
-F 2 "Keebio-Parts:Elite-C" V 3720 -170 60  0001 C CNN
-F 3 "" V 3720 -170 60  0001 C CNN
-	1    2670 2330
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GND #PWR04
 U 1 1 5F5282F6
 P 1770 1980
@@ -1429,12 +1418,12 @@ $EndComp
 $Comp
 L Device:D_Small D79
 U 1 1 5F6205C8
-P 21570 4930
-F 0 "D79" V 21549 4998 30  0000 L CNN
-F 1 "D_Small" V 21600 4998 20  0000 L CNN
-F 2 "m0110a:Diode" V 21570 4930 50  0001 C CNN
-F 3 "~" V 21570 4930 50  0001 C CNN
-	1    21570 4930
+P 20970 4930
+F 0 "D79" V 20949 4998 30  0000 L CNN
+F 1 "D_Small" V 21000 4998 20  0000 L CNN
+F 2 "m0110a:Diode" V 20970 4930 50  0001 C CNN
+F 3 "~" V 20970 4930 50  0001 C CNN
+	1    20970 4930
 	0    1    1    0   
 $EndComp
 Text GLabel 4360 5220 0    50   Input ~ 0
@@ -2494,7 +2483,7 @@ Wire Wire Line
 	19210 4830 20590 4830
 Connection ~ 20590 4830
 Wire Wire Line
-	20590 4830 21570 4830
+	20590 4830 20970 4830
 Connection ~ 13820 4830
 Wire Wire Line
 	13820 4830 14790 4830
@@ -2848,10 +2837,6 @@ Wire Wire Line
 	19940 5030 19940 4010
 Connection ~ 19940 4010
 Wire Wire Line
-	20970 5030 20930 5030
-Wire Wire Line
-	20930 5030 20930 2960
-Wire Wire Line
 	20930 1000 20960 1000
 Text GLabel 20930 1000 0    50   Input ~ 0
 COL17
@@ -2862,7 +2847,6 @@ Wire Wire Line
 	20930 1930 20930 1000
 Wire Wire Line
 	20970 2960 20930 2960
-Connection ~ 20930 2960
 Wire Wire Line
 	20930 2960 20930 1930
 $Comp
@@ -3581,7 +3565,7 @@ Wire Wire Line
 	10210 4110 10210 3420
 Connection ~ 10210 3420
 Wire Wire Line
-	10210 3420 11830 3420
+	10210 3420 10850 3420
 Wire Wire Line
 	9880 3160 9880 3420
 Connection ~ 9880 3420
@@ -3874,6 +3858,80 @@ Wire Wire Line
 Wire Wire Line
 	21570 5460 21570 5230
 Connection ~ 20590 5460
-Text GLabel 2770 3280 3    50   Input ~ 0
+Text GLabel 2670 3280 3    50   Input ~ 0
 ROW4
+$Comp
+L keebio:Elite-C U1
+U 1 1 5F5257EF
+P 2670 2330
+F 0 "U1" H 2670 3167 60  0000 C CNN
+F 1 "Elite-C" H 2670 3061 60  0000 C CNN
+F 2 "Keebio-Parts:Elite-C" V 3720 -170 60  0001 C CNN
+F 3 "" V 3720 -170 60  0001 C CNN
+	1    2670 2330
+	1    0    0    -1  
+$EndComp
+Text GLabel 2570 3280 3    50   Input ~ 0
+COL5
+Text GLabel 1970 1880 0    50   Input ~ 0
+ROW3
+Text GLabel 3370 2480 2    50   Input ~ 0
+ROW2
+Text GLabel 3370 2580 2    50   Input ~ 0
+ROW1
+Text GLabel 3370 2680 2    50   Input ~ 0
+ROW0
+Text GLabel 3370 2180 2    50   Input ~ 0
+COL0
+Text GLabel 3370 1780 2    50   Input ~ 0
+COL1
+Text GLabel 3370 2280 2    50   Input ~ 0
+COL2
+Text GLabel 3370 2380 2    50   Input ~ 0
+COL3
+Text GLabel 1970 2180 0    50   Input ~ 0
+COL4
+Text GLabel 1970 2280 0    50   Input ~ 0
+COL6
+Wire Wire Line
+	21570 3600 20930 3600
+Wire Wire Line
+	20930 3600 20930 2960
+Wire Wire Line
+	21570 3600 21570 5030
+Connection ~ 20930 2960
+Wire Wire Line
+	10850 3160 10850 3420
+Connection ~ 10850 3420
+Wire Wire Line
+	10850 3420 11190 3420
+Wire Wire Line
+	11240 4110 11190 4110
+Wire Wire Line
+	11190 4110 11190 3420
+Connection ~ 11190 3420
+Wire Wire Line
+	11190 3420 11830 3420
+Text GLabel 1970 2380 0    50   Input ~ 0
+COL7
+Text GLabel 1970 2480 0    50   Input ~ 0
+COL8
+Text GLabel 1970 2580 0    50   Input ~ 0
+COL9
+Text GLabel 1970 2680 0    50   Input ~ 0
+COL10
+Text GLabel 1970 2780 0    50   Input ~ 0
+COL11
+Text GLabel 2470 3280 3    50   Input ~ 0
+COL12
+Text GLabel 1970 2880 0    50   Input ~ 0
+COL13
+Text GLabel 2770 3280 3    50   Input ~ 0
+COL14
+Text GLabel 3370 2780 2    50   Input ~ 0
+COL17
+Text GLabel 3370 2880 2    50   Input ~ 0
+COL16
+Text GLabel 2870 3280 3    50   Input ~ 0
+COL15
 $EndSCHEMATC
