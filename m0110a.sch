@@ -3877,9 +3877,9 @@ Text GLabel 1970 1880 0    50   Input ~ 0
 ROW3
 Text GLabel 3370 2480 2    50   Input ~ 0
 ROW2
-Text GLabel 3370 2580 2    50   Input ~ 0
-ROW1
 Text GLabel 3370 2680 2    50   Input ~ 0
+ROW1
+Text GLabel 3370 2580 2    50   Input ~ 0
 ROW0
 Text GLabel 3370 2180 2    50   Input ~ 0
 COL0
